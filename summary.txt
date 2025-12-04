@@ -1,0 +1,4 @@
+Campus Energy Dashboard Summary
+--------------------------------
+Total Energy Consumption: 101.00 kWh
+Highest Use Building: building_A
